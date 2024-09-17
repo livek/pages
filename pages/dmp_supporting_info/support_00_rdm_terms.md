@@ -20,6 +20,7 @@ Some of the terms used in the context of data management plans and research data
 For Norwegian translations, take a look a the [NO-RDA Termliste for forskningsdatahåndtering](https://www.openscience.no/en/node/3544).
 
 ## Key research data management terms explained (alphabetical order, non-exaustive)
+bla bla
 
 ### Archiving
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
